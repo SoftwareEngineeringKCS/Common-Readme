@@ -6,6 +6,7 @@ SYSTEM STRUCTURE:
     "includes" folder:
   
         db_config.php
+        db_config_email
         db_config_function.php
         footer.html
         header.html
