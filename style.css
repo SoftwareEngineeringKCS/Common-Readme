@@ -120,6 +120,7 @@ input, select, .input {
 	color: #000000;
 	background: #FFFFFF;
 	border:1px dashed #074e89;
+	border-radius: 3px;
 }
 
 /* Added by Jorge Espada: */
