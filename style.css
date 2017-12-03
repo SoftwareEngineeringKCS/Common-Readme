@@ -145,6 +145,34 @@ button, .button {
 	border-radius: 3px;
 }
 
+.btnNav {
+	background:#fafafa;
+	color:#555;
+	font-weight: bold;
+	display:block;
+	height: 40px;
+	text-align:center;
+	border: 0px;
+	width: 149px;
+	border-right:1px solid #999;
+}
+
+.btnNav:hover {
+	background:#074e89;
+	color:#ffffff;
+	font-weight: bold;
+	border: 0px;
+}
+
+.menu_help {
+	padding: 0px 0px 10px 0px;
+	background: #ebf5fb;
+	border: 1px solid #999;
+	width: 849px;
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+
 .btntitle {
   	line-height: .1px;
   	height: 25px;
@@ -215,7 +243,7 @@ table, .table {
 	padding: 0px;
 	font-weight: normal;
 	font-size: 1em;
-	color: #000000;
+	color: #888;
 	background: #FFFFFF;
 	border:0px solid #b22222;
 	border-radius: 5px;
@@ -239,4 +267,9 @@ th, .th {
 	background: #074e89;
 	border:1px dotted #074e89;
 	border-radius: 3px;
+}
+
+.img1 {
+	border: 2px solid #074e89;
+	border-radius: 50px;
 }
