@@ -33,6 +33,7 @@
 			<p>Have a quick question? Visit during our monthly Career Clinic to speak with a career coordinator. No appointments necessary. Maximum 15 minutes per student on a first-come, first-served basis.</p>
 		</td>
 		<td style="border: 0px; width: 50%; vertical-align: top;">
+			<br>
 			<img class="img1" src="pictures/background_01.jpg" height="350" width="400">
 		</td>
 	</tr>
