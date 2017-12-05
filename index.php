@@ -26,13 +26,13 @@
 <h1>Welcome to the Appointments Portal of Career Services</h1>
 <table>
 	<tr>
-		<td style="border: 0px; font-size: 1.1em; width: 50%">
+		<td style="border: 0px; font-size: 1.1em; width: 50%; vertical-align: top;">
 			<p>The Office of Career Services assists students in preparing to compete in today's changing job market, offering a multitude of services to assist students on their pathway to success. Career Development and Advancement maintains information on the latest career resources, techniques and strategies designed to meet the needs of our diverse student population. Our services are personalized and serve to empower students through each stage of their career development, from first year through graduation.</p>
 			<p>Career Services help students pinpoint their interests and assist in discovering possible career paths and majors.</p> 
 			<p>Meet with a Career Counselor to discuss your career objectives, including researching careers, resume critiquing, practice interviews and salary negotiation.</p>
 			<p>Have a quick question? Visit during our monthly Career Clinic to speak with a career coordinator. No appointments necessary. Maximum 15 minutes per student on a first-come, first-served basis.</p>
 		</td>
-		<td style="border: 0px; width: 50%">
+		<td style="border: 0px; width: 50%; vertical-align: top;">
 			<img class="img1" src="pictures/background_01.jpg" height="350" width="400">
 		</td>
 	</tr>
