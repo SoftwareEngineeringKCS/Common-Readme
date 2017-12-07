@@ -30,5 +30,6 @@ SYSTEM STRUCTURE:
     populate_book.php
     populate_walk_in.php
     review_manage.php
+    review_set.php
     sign_out.php
     staff.php
