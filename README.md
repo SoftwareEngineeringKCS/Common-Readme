@@ -10,6 +10,7 @@ SYSTEM STRUCTURE:
         db_config_function.php
         footer.html
         header.html
+        jquery-3.2.1.min.js
         style.css
 
     "pictures" folder:
@@ -23,7 +24,6 @@ SYSTEM STRUCTURE:
     confirm_booking.php
     confirm_walk_in.php
     index.php
-    jquery-3.2.1.js
     login.html
     login_handle.php
     populate_appointments.php
