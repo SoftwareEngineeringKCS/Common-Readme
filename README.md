@@ -5,6 +5,7 @@ SYSTEM STRUCTURE:
 
     "includes" folder:
   
+        Chart.bundle.min.js
         db_config.php
         db_config_email
         db_config_function.php
@@ -24,6 +25,7 @@ SYSTEM STRUCTURE:
     confirm_booking.php
     confirm_walk_in.php
     index.php
+    load_stats.php
     login.html
     login_handle.php
     populate_appointments.php
