@@ -24,6 +24,7 @@ SYSTEM STRUCTURE:
     check_in.php
     confirm_booking.php
     confirm_walk_in.php
+    export_stats.php
     index.php
     load_stats.php
     login.html
