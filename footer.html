@@ -2,7 +2,15 @@
 	<!-- End of the page-specific content. --></div>
 	
 	<div id="footer">
-		<p>Copyright &copy; <a href="http://www.kean.edu/offices/cas/career-development" target="_blank">Career Services</a> 2017 | Designed by <a href="#"> Team KCS</a> | Sponsored by <a href="http://www.kean.edu/" target="_blank">Kean University</a></p>
+		<p>Copyright &copy; <a href="http://www.kean.edu/offices/cas/career-development" target="_blank">Career Services</a> 2017 | 
+			Designed by <a class="popup" onclick="myPopUp()"> Team KCS<span class="popuptext" id="myPopup">Jorge Espada<br>Rishi Suthar<br>Juan Iglesias<br>Adnan Rahman<br>Luis Sanchez<br>Viswas John<br>Shalin Patel</span></a> | 
+			Sponsored by <a href="http://www.kean.edu/" target="_blank">Kean University</a></p>
 	</div>
+	<script>
+		function myPopUp() {
+		    var popup = document.getElementById("myPopup");
+		    popup.classList.toggle("show");
+		}
+	</script>
 </body>
 </html>
